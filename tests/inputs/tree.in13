@@ -1,0 +1,31 @@
+30
+0 -1 4 addr86 addr11 addr41 addr85
+1 11 8 addr20 addr47 addr45 addr90 addr51 addr21 addr79 addr10
+2 27 15 addr59 addr27 addr43 addr74 addr9 addr54 addr65 addr8 addr91 addr35 addr26 addr100 addr94 addr36 addr44
+3 0 15 addr88 addr23 addr55 addr56 addr64 addr32 addr63 addr40 addr67 addr6 addr81 addr42 addr20 addr49 addr58
+4 11 9 addr20 addr67 addr82 addr69 addr27 addr29 addr99 addr17 addr85
+5 28 5 addr34 addr18 addr64 addr87 addr52
+6 20 15 addr25 addr21 addr15 addr68 addr60 addr84 addr56 addr45 addr31 addr63 addr57 addr35 addr54 addr3 addr83
+7 27 3 addr94 addr10 addr60
+8 22 7 addr43 addr24 addr58 addr99 addr67 addr74 addr9
+9 27 9 addr31 addr91 addr13 addr26 addr99 addr9 addr68 addr33 addr25
+10 24 13 addr76 addr39 addr60 addr70 addr82 addr6 addr25 addr75 addr97 addr11 addr3 addr95 addr7
+11 24 7 addr85 addr99 addr70 addr31 addr23 addr4 addr43
+12 29 11 addr79 addr38 addr83 addr88 addr62 addr39 addr68 addr87 addr67 addr37 addr51
+13 8 4 addr41 addr95 addr57 addr82
+14 15 10 addr25 addr31 addr11 addr95 addr83 addr59 addr24 addr3 addr68 addr16
+15 24 8 addr97 addr43 addr96 addr50 addr85 addr3 addr37 addr76
+16 4 12 addr80 addr83 addr93 addr60 addr35 addr77 addr98 addr56 addr78 addr38 addr8 addr64
+17 3 12 addr82 addr91 addr4 addr45 addr66 addr27 addr29 addr25 addr77 addr35 addr57 addr8
+18 29 2 addr98 addr46
+19 20 3 addr20 addr24 addr16
+20 3 6 addr11 addr73 addr83 addr16 addr8 addr80
+21 26 4 addr92 addr31 addr57 addr3
+22 9 11 addr11 addr47 addr94 addr24 addr61 addr27 addr50 addr99 addr48 addr95 addr57
+23 4 2 addr97 addr64
+24 28 3 addr32 addr87 addr90
+25 11 12 addr44 addr56 addr92 addr32 addr83 addr21 addr17 addr12 addr80 addr98 addr78 addr76
+26 27 10 addr19 addr85 addr96 addr25 addr89 addr9 addr78 addr82 addr81 addr33
+27 25 13 addr10 addr57 addr80 addr45 addr70 addr33 addr83 addr12 addr37 addr66 addr19 addr96 addr81
+28 12 11 addr21 addr87 addr72 addr10 addr27 addr70 addr37 addr47 addr19 addr89 addr11
+29 19 11 addr25 addr79 addr40 addr90 addr33 addr59 addr29 addr92 addr1 addr62 addr100

@@ -1,0 +1,10 @@
+0 addr100 addr19 addr21 addr29 addr3 addr33 addr38 addr4 addr40 addr41 addr43 addr44 addr48 addr58 addr6 addr65 addr66 addr69 addr71 addr72 addr76 addr82 addr83 addr86 addr92 addr93 addr95
+1 addr83 addr93
+2 addr19 addr21 addr41 addr48
+3 addr33 addr72
+4 addr19 addr21 addr29 addr3 addr33 addr38 addr4 addr41 addr44 addr48 addr58 addr6 addr65 addr69 addr72 addr76 addr82 addr86 addr92
+5 addr33 addr4 addr65 addr72
+6 addr19 addr21 addr38 addr41 addr48 addr6 addr82
+7 addr19 addr21 addr29 addr33 addr38 addr4 addr41 addr48 addr6 addr65 addr72 addr76 addr82 addr92
+8 addr19 addr21 addr29 addr33 addr38 addr4 addr41 addr48 addr58 addr6 addr65 addr72 addr76 addr82 addr92
+9 addr19 addr21 addr29 addr3 addr33 addr38 addr4 addr40 addr41 addr43 addr44 addr48 addr58 addr6 addr65 addr66 addr69 addr72 addr76 addr82 addr86 addr92

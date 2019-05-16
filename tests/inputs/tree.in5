@@ -1,0 +1,51 @@
+50
+0 -1 19 addr42 addr22 addr11 addr33 addr43 addr36 addr20 addr84 addr17 addr92 addr70 addr30 addr66 addr40 addr53 addr67 addr34 addr72 addr13
+1 25 13 addr97 addr99 addr15 addr39 addr12 addr19 addr8 addr5 addr4 addr65 addr17 addr59 addr64
+2 0 4 addr90 addr25 addr46 addr32
+3 10 9 addr43 addr78 addr56 addr61 addr82 addr99 addr63 addr4 addr34
+4 8 1 addr62
+5 10 24 addr84 addr91 addr32 addr34 addr3 addr2 addr66 addr44 addr43 addr74 addr98 addr90 addr45 addr26 addr47 addr5 addr40 addr100 addr11 addr18 addr13 addr31 addr29 addr15
+6 7 18 addr87 addr25 addr30 addr13 addr69 addr56 addr85 addr100 addr77 addr66 addr33 addr54 addr14 addr98 addr26 addr15 addr21 addr3
+7 17 12 addr35 addr10 addr80 addr8 addr17 addr64 addr88 addr2 addr97 addr54 addr78 addr47
+8 38 4 addr2 addr93 addr68 addr16
+9 22 17 addr61 addr67 addr76 addr19 addr92 addr29 addr47 addr24 addr75 addr59 addr95 addr72 addr36 addr16 addr45 addr56 addr63
+10 45 12 addr51 addr71 addr22 addr61 addr77 addr68 addr38 addr31 addr35 addr19 addr47 addr44
+11 40 11 addr41 addr53 addr81 addr21 addr47 addr32 addr27 addr98 addr59 addr90 addr34
+12 27 9 addr39 addr51 addr13 addr20 addr99 addr69 addr18 addr10 addr25
+13 33 22 addr33 addr72 addr76 addr67 addr73 addr66 addr80 addr75 addr18 addr45 addr39 addr87 addr51 addr4 addr24 addr15 addr63 addr78 addr27 addr54 addr90 addr32
+14 36 25 addr88 addr20 addr31 addr62 addr85 addr65 addr44 addr60 addr95 addr100 addr89 addr76 addr42 addr28 addr32 addr41 addr21 addr57 addr13 addr45 addr19 addr52 addr39 addr77 addr92
+15 22 14 addr29 addr58 addr87 addr16 addr57 addr22 addr78 addr95 addr71 addr1 addr76 addr4 addr24 addr12
+16 31 20 addr68 addr38 addr73 addr18 addr16 addr62 addr9 addr80 addr20 addr59 addr78 addr24 addr27 addr90 addr3 addr23 addr64 addr65 addr70 addr58
+17 11 12 addr67 addr25 addr86 addr33 addr79 addr85 addr53 addr32 addr15 addr76 addr57 addr54
+18 31 3 addr75 addr92 addr83
+19 16 25 addr44 addr45 addr43 addr92 addr29 addr11 addr90 addr70 addr22 addr38 addr97 addr5 addr48 addr66 addr76 addr71 addr55 addr14 addr4 addr17 addr65 addr89 addr93 addr75 addr33
+20 44 23 addr12 addr46 addr37 addr13 addr90 addr47 addr45 addr17 addr63 addr35 addr75 addr29 addr76 addr91 addr41 addr100 addr30 addr2 addr53 addr94 addr80 addr64 addr88
+21 43 21 addr19 addr76 addr60 addr31 addr8 addr33 addr72 addr87 addr13 addr4 addr68 addr44 addr82 addr9 addr17 addr39 addr86 addr22 addr35 addr2 addr67
+22 44 11 addr32 addr3 addr39 addr20 addr99 addr100 addr42 addr50 addr87 addr66 addr55
+23 8 9 addr33 addr12 addr88 addr58 addr65 addr47 addr22 addr67 addr81
+24 37 5 addr63 addr14 addr61 addr60 addr91
+25 42 14 addr59 addr72 addr76 addr15 addr83 addr74 addr80 addr75 addr39 addr85 addr91 addr17 addr36 addr93
+26 22 20 addr98 addr91 addr56 addr99 addr8 addr100 addr29 addr6 addr72 addr40 addr82 addr60 addr26 addr20 addr22 addr69 addr52 addr68 addr13 addr63
+27 19 23 addr1 addr39 addr80 addr3 addr16 addr96 addr79 addr74 addr60 addr98 addr28 addr34 addr57 addr81 addr84 addr94 addr44 addr29 addr22 addr69 addr82 addr71 addr38
+28 11 13 addr92 addr63 addr89 addr53 addr60 addr83 addr99 addr95 addr6 addr19 addr98 addr50 addr56
+29 15 13 addr36 addr28 addr85 addr5 addr94 addr35 addr80 addr97 addr60 addr75 addr65 addr30 addr76
+30 15 20 addr37 addr52 addr41 addr65 addr86 addr3 addr97 addr66 addr46 addr45 addr51 addr50 addr70 addr33 addr4 addr54 addr16 addr87 addr71 addr91
+31 43 17 addr25 addr19 addr85 addr75 addr84 addr81 addr2 addr18 addr35 addr42 addr6 addr69 addr83 addr45 addr64 addr8 addr14
+32 7 15 addr70 addr38 addr30 addr100 addr55 addr29 addr26 addr93 addr75 addr46 addr83 addr97 addr48 addr96 addr51
+33 19 1 addr65
+34 10 22 addr93 addr71 addr2 addr74 addr80 addr28 addr7 addr19 addr67 addr16 addr78 addr48 addr6 addr73 addr11 addr22 addr47 addr69 addr20 addr39 addr9 addr88
+35 18 8 addr1 addr9 addr61 addr23 addr46 addr72 addr30 addr87
+36 15 21 addr5 addr21 addr29 addr41 addr39 addr4 addr90 addr60 addr74 addr14 addr43 addr2 addr27 addr97 addr87 addr59 addr77 addr81 addr68 addr66 addr84
+37 43 12 addr63 addr73 addr50 addr31 addr28 addr68 addr52 addr47 addr22 addr60 addr88 addr83
+38 27 25 addr83 addr46 addr1 addr48 addr23 addr54 addr26 addr74 addr72 addr30 addr67 addr100 addr77 addr90 addr84 addr70 addr17 addr66 addr32 addr63 addr45 addr35 addr62 addr92 addr61
+39 21 4 addr45 addr64 addr57 addr69
+40 43 6 addr88 addr44 addr5 addr86 addr49 addr54
+41 3 3 addr86 addr65 addr43
+42 2 3 addr50 addr20 addr64
+43 3 18 addr48 addr74 addr5 addr35 addr93 addr66 addr39 addr25 addr1 addr81 addr21 addr95 addr52 addr79 addr8 addr3 addr85 addr99
+44 2 22 addr87 addr49 addr23 addr67 addr60 addr27 addr84 addr70 addr93 addr77 addr21 addr71 addr46 addr85 addr28 addr75 addr98 addr18 addr62 addr30 addr31 addr80
+45 9 1 addr8
+46 12 2 addr8 addr87
+47 7 23 addr100 addr99 addr25 addr57 addr53 addr84 addr29 addr66 addr42 addr17 addr76 addr6 addr11 addr1 addr51 addr75 addr21 addr92 addr60 addr80 addr85 addr50 addr93
+48 21 19 addr89 addr86 addr28 addr52 addr20 addr77 addr8 addr71 addr98 addr45 addr92 addr75 addr9 addr1 addr56 addr91 addr100 addr81 addr47
+49 9 14 addr39 addr28 addr95 addr59 addr8 addr72 addr38 addr56 addr78 addr42 addr65 addr4 addr53 addr87
